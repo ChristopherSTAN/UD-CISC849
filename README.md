@@ -80,7 +80,7 @@ And really recommend to read YOLO algorithms family:
 2. YOLOv2: https://arxiv.org/abs/1612.08242 
 3. YOLOv3: https://arxiv.org/abs/1804.02767 
 4. YOLOv4: https://arxiv.org/abs/2004.10934 
-5. YOLOv5: the paper is still working, according to the aurthors
+5. YOLOv5: the paper is still working, according to the authors
 
 And we use three different size of YOLOv5, including YOLOv5m, YOLOv5l and YOLOv5x:
 
